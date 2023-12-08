@@ -1,0 +1,22 @@
+ihayunm@hotmail.com, 81 minutes ago: this is a new line added on new_branch on testfile
+diff --git a/git/testfile b/git/testfile
+index e69de29..b0a7d03 100644
+--- a/git/testfile
++++ b/git/testfile
+@@ -0,0 +1 @@
++this is a new line
+
+ihayunm@hotmail.com, 83 minutes ago: this is a new line on new branch for testfile
+diff --git a/git/testfile b/git/testfile
+new file mode 100644
+index 0000000..e69de29
+
+ihayunm@hotmail.com, 27 hours ago: this is commited
+diff --git a/git/README.md b/git/README.md
+new file mode 100644
+index 0000000..6f3d9e2
+--- /dev/null
++++ b/git/README.md
+@@ -0,0 +1,2 @@
++this is a change to our readme file
++this is another line
